@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Tema mínimo para compatibilidad con sistema de recursos -->
+    <style name="Theme.StayClean" parent="android:Theme.Material.Light.NoActionBar" />
+
+</resources>
